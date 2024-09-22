@@ -1,10 +1,11 @@
 @font-face {
-    font-family: FONT;
-    src: url("JetBrainsMonoNerdFontMono-Regular.ttf");
+    font-family: BigBlueTerm;
+    src: url("BigBlueTerm437NerdFontMono-Regular.woff");
 }
 
 body {
     color: #cad3f5;
     background-color: #24273a;
+    font-family: BigBlueTerm;
     font-size: xx-large;
 }
