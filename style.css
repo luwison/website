@@ -1,6 +1,11 @@
+@font-face {
+    font-family: FONT;
+    src: url("JetBrainsMonoNerdFontMono-Regular.ttf");
+}
+
 body {
     color: #cad3f5;
     background-color: #24273a;
-    font-family: fantasy;
+    font-family: FONT;
     font-size: xx-large;
 }
